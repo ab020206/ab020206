@@ -1,16 +1,101 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Arihant! 👋</h1>
+<h3 align="center">🚀 IT Undergraduate | Tech Enthusiast | Researcher | Problem Solver</h3>
 
-<!--
-**ab020206/ab020206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=FF5733&center=true&width=550&lines=AI+Researcher+%7C+Innovator+%7C+Tech+Enthusiast;Problem+Solver+%7C+Business+Thinker+%7C+Event+Organizer;Passionate+About+Technology+and+Music+%F0%9F%8E%A7%F0%9F%92%BB">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+🔹 **Second-Year IT Student** at **PICT, Pune (2023-2027)**  
+🔹 Passionate about **AI, problem-solving, and innovative tech solutions**  
+🔹 Exploring **full-stack development, AI research, and intelligent systems**  
+🔹 Love **writing technical blogs & research papers** to share knowledge  
+
+💡 **"Code, innovate, and build a better tomorrow!"** 💡  
+
+---
+
+## 📚 Research & Publications  
+📝 **Research Paper on MindCraft** – *AI-Driven Personalized Learning for Rural Education*  
+🔹 Submitted to **arXiv & Springer**  
+🔹 Focuses on **AI-powered mentorship, adaptive learning, and resource-sharing** to revolutionize education in rural India.  
+
+✍️ **Medium Article on Skill-First Education in India**  
+🔹 Advocates for **practical skills over rote learning** in the Indian education system.  
+🔹 Discusses **modern AI-driven approaches to education**.  
+
+---
+
+## 🏆 Featured Projects  
+
+🚀 **StudentBridge** – *Helping Students Feel at Home*  
+🔹 **A platform that helps students settle in a new city** 🌍  
+🔹 Connect with resources, accommodation, and local communities  
+🔹 *Tech Stack:* JavaScript, HTML, CSS, Firebase  
+
+🎯 **MindCraft** – *AI-Powered Personalized Learning*  
+🔹 **Revolutionizing education** in rural India  
+🔹 AI-driven mentorship and adaptive learning system  
+🔹 *Tech Stack:* Python, AI/ML, Firebase  
+
+🍽️ **SnackUp** – *Quick & Delicious Recipes for Students*  
+🔹 **Find quick and easy meal recipes** for hostel life  
+🔹 Simplifies cooking with **step-by-step guides**  
+🔹 *Tech Stack:* JavaScript, HTML, CSS  
+
+🧮 **Numerology Calculator** – *Discover Your Life Path*  
+🔹 Calculate **key numerology numbers** for self-discovery  
+🔹 *Tech Stack:* JavaScript  
+
+🩺 **Track & Care** – *Your Health Monitoring Companion*  
+🔹 **Track symptoms, get personalized insights**, and stay healthy  
+🔹 *Tech Stack:* JavaScript, HTML, CSS  
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-GitHub?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🎭 Interests & Passions  
+✔️ **Passionate about AI ethics & responsible AI** 🤖  
+✔️ **Event Management & Business Skills** 🎯  
+✔️ **Music Instrumentalist & Singer** 🎸🎤 (Plays multiple instruments)  
+✔️ **Constantly building new projects & learning new skills** 🚀  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab020206&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ab020206&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🎵 Fun Fact  
+💬 **"AI might take over the world someday, but first, it needs to understand recursion!"** 🤖🔄  
+
+---
+
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/arihantbardia02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ab020206"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@arihant.bardia123me"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+
