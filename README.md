@@ -26,7 +26,7 @@
 ✍️ **Medium Article on Skill-First Education in India**  
 🔹 Advocates for **practical skills over rote learning** in the Indian education system.  
 🔹 Discusses **modern AI-driven approaches to education**.  
-🔹 📰 Read here: [Skill-First Education]([https://medium.com/@arihant.bardia123](https://medium.com/@arihant.bardia123/empowering-education-a-skill-first-approach-for-a-brighter-future-6e14a5c54b73))  
+🔹 📰 Read here: [Skill-First Education]((https://medium.com/@arihant.bardia123/empowering-education-a-skill-first-approach-for-a-brighter-future-6e14a5c54b73))  
 
 ✍️ **Medium Article: Rethinking Public Transport – A More Inclusive Approach**  
 🔹 A **data-driven approach** to creating a **more balanced and efficient** public transport system in Pune.  
