@@ -45,7 +45,7 @@
 🎯 **[MindCraft](https://mindcraft-ab.vercel.app/)** – *AI-Powered Personalized Learning*  
 🔹 **Revolutionizing education** in rural India  
 🔹 AI-driven mentorship and adaptive learning system  
-🔹 *Tech Stack:* Python, AI/ML, Firebase  
+
 
 🍽️ **[SnackUp](https://snackup.vercel.app/)** – *Quick & Delicious Recipes for Students* 
 🔹 **Find quick and easy meal recipes** for hostel life  
