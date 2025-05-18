@@ -1,5 +1,4 @@
 <h1 align="center">Hey there, I'm Arihant! 👋</h1>
-<h3 align="center">🚀 IT Undergraduate | Tech Enthusiast | Researcher | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=FF5733&center=true&width=550&lines=AI+Researcher+%7C+Innovator+%7C+Tech+Enthusiast;Problem+Solver+%7C+Business+Thinker+%7C+Event+Organizer;Passionate+About+Technology+and+Music+%F0%9F%8E%A7%F0%9F%92%BB">
