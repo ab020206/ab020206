@@ -100,6 +100,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🎭 Interests & Passions  
