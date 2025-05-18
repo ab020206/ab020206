@@ -1,9 +1,4 @@
 <h1 align="center">🌟 Hi, I'm Arihant Bardia! 🌟</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=00BFFF&center=true&width=650&lines=AI+Explorer+%7C+Tech+Storyteller+%7C+Full-Stack+Builder;Research+Driven+%7C+Human-Centered+Innovator+%7C+Community+Lover;Turning+Ideas+into+Impact+%F0%9F%A7%AA%F0%9F%92%BB" />
-</p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=FF5733&center=true&width=550&lines=AI+Researcher+%7C+Innovator+%7C+Tech+Enthusiast;Problem+Solver+%7C+Business+Thinker+%7C+Event+Organizer;Passionate+About+Technology+and+Music+%F0%9F%8E%A7%F0%9F%92%BB">
@@ -11,7 +6,7 @@
 
 ---
 
-## 🌟 About Me  
+## 🤔 Who am I?  
 🔹 **Second-Year IT Student** at **PICT, Pune (2023-2027)**  
 🔹 Passionate about **AI, problem-solving, and innovative tech solutions**  
 🔹 Exploring **full-stack development, AI research, and intelligent systems**  
