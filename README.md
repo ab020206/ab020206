@@ -64,7 +64,9 @@
 <table>
   <tr>
     <th>Frontend</th>
-    <th>Backend</th>
+    <th>Runtime & Frameworks</th>
+    <th>ORMs & Query Builders</th>
+    <th>Databases</th>
     <th>Auth & APIs</th>
     <th>DevOps</th>
   </tr>
@@ -79,8 +81,16 @@
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hono.js-333333?style=flat&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Drizzle ORM-000?style=flat&logoColor=white" />
+    </td>
+    <td>
       <img src="https://img.shields.io/badge/D1-111827?style=flat&logo=cloudflare&logoColor=orange" />
-      <img src="https://img.shields.io/badge/Drizzle-000?style=flat&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/OAuth-4285F4?style=flat&logo=oauth&logoColor=white" />
@@ -96,7 +106,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🎭 Interests & Passions  
