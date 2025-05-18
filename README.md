@@ -5,11 +5,17 @@
 
 ---
 
-## 🔍 Who Am I?
-🎓 **Undergraduate @ PICT Pune (2023–2027)**  
-🧠 Driven by **AI research**, human-centered innovation, and inclusive tech  
-📚 A **problem-solver** at heart, working across domains to **bridge gaps with technology**  
-🖋️ Blogging, building, and brainstorming to inspire action & share ideas
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=FF5733&center=true&width=550&lines=AI+Researcher+%7C+Innovator+%7C+Tech+Enthusiast;Problem+Solver+%7C+Business+Thinker+%7C+Event+Organizer;Passionate+About+Technology+and+Music+%F0%9F%8E%A7%F0%9F%92%BB">
+</p>
+
+---
+
+## 🌟 About Me  
+🔹 **Second-Year IT Student** at **PICT, Pune (2023-2027)**  
+🔹 Passionate about **AI, problem-solving, and innovative tech solutions**  
+🔹 Exploring **full-stack development, AI research, and intelligent systems**  
+🔹 Love **writing technical blogs & research papers** to share knowledge  
 
 > 💬 *“Empathy + AI = Future-proof innovation.”*
 
@@ -19,7 +25,7 @@
 
 ### 🧠 **MindCraft** – AI for Rural Education  
 - 📘 AI-powered adaptive learning, smart mentorship & community-driven resource sharing  
-- 📍 Presented in [arXiv & Springer](https://doi.org/10.48550/arXiv.2502.05826)  
+- 📍 Published on [arXiv](https://doi.org/10.48550/arXiv.2502.05826)  
 - 🌍 Mission: democratizing quality education in India’s rural heartlands
 
 ### ✍️ Thought Pieces  
@@ -36,7 +42,7 @@ Tech: JavaScript · Firebase · HTML/CSS
 
 ### 🧠 [MindCraft](https://mindcraft-ab.vercel.app/)  
 > *AI meets education equity. A bold step towards rural upliftment.*  
-Tech: Remix · TypeScript · Cloudflare
+Tech: HHTML/CSS · Javascript 
 
 ### 🍲 [SnackUp](https://snackup.vercel.app/)  
 > *Wholesome, quick hostel meals – because hunger shouldn’t be a problem.*  
@@ -46,7 +52,7 @@ Tech: Vanilla JS · HTML/CSS
 > *Find your life path number in seconds!*  
 Tech: JavaScript
 
-### 🩺 Track & Care *(coming soon)*  
+### 🩺 Track & Care 
 > *A simple digital health companion – track, learn, improve.*  
 Tech: HTML · JS · Custom APIs
 
