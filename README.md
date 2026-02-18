@@ -1,87 +1,154 @@
+<h1 align="center">🚀 Arihant Bardia</h1> <p align="center"> <b>AI Systems Builder • Full-Stack Architect • Education & Fintech Innovator</b> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=FF5733&center=true&width=750&lines=Building+Impactful+AI+Platforms;Founder-Minded+Engineer;Scaling+Ideas+Into+Systems;Education+%7C+Fintech+%7C+Intelligent+Infrastructure"> </p>
+🧠 Founder Mindset
 
-<h1 align="center">🌟 Hi, I'm Arihant Bardia! 🌟</h1>
+I don’t just build projects.
+I design systems that solve structural problems at scale.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=FF5733&center=true&width=550&lines=AI+Researcher+%7C+Innovator+%7C+Tech+Enthusiast;Problem+Solver+%7C+Business+Thinker+%7C+Event+Organizer;Passionate+About+Technology+and+Music+%F0%9F%8E%A7%F0%9F%92%BB">
-</p>
+🎓 B.E. Information Technology — PICT Pune (CGPA: 9.16)
+💡 Focused on AI-driven platforms in Education, Collaboration & Fintech
+⚙ Building scalable full-stack systems from idea → architecture → deployment
 
----
+My approach combines:
 
-## 🤔 Who am I?  
-🔹 **Second-Year IT Student** at **PICT, Pune (2023-2027)**  
-🔹 Passionate about **AI, problem-solving, and innovative tech solutions**  
-🔹 Exploring **full-stack development, AI research, and intelligent systems**  
-🔹 Love **writing technical blogs & research papers** to share knowledge  
+Systems thinking
 
-> 💬 *“Empathy + AI = Future-proof innovation.”*
+AI integration
 
----
+Behavioral psychology
 
-## 🧪 Research & Thought Leadership  
+Secure infrastructure
 
-### 🧠 **MindCraft** – AI for Rural Education  
-- 📘 AI-powered adaptive learning, smart mentorship & community-driven resource sharing  
-- 📍 Published on [arXiv](https://doi.org/10.48550/arXiv.2502.05826)  
-- 🌍 Mission: democratizing quality education in India’s rural heartlands
+Long-term product vision
 
-### ✍️ Thought Pieces  
-- [Skill-First Education](https://medium.com/@arihant.bardia123/empowering-education-a-skill-first-approach-for-a-brighter-future-6e14a5c54b73) – how practical learning can reshape India’s future  
-- [Inclusive Public Transport](https://medium.com/@arihant.bardia123/rethinking-public-transport-a-more-inclusive-approach-for-everyone-96c74a591eff) – using data and empathy to redesign urban mobility
+“Technology should not just function — it should transform.”
 
----
+🚀 What I’m Building
+🧠 MindCraft
 
-## 🚀 Selected Projects
+AI-powered personalized learning ecosystem for rural and skill-first education.
 
-### 🎓 [StudentBridge](https://studentbridge.vercel.app/)  
-> *Helping students feel at home in unfamiliar cities*  
-Tech: JavaScript · Firebase · HTML/CSS
+Adaptive learning intelligence
 
-### 🧠 [MindCraft](https://mindcraft-ab.vercel.app/)  
-> *AI meets education equity. A bold step towards rural upliftment.*  
-Tech: HHTML/CSS · Javascript 
+Mentorship matching architecture
 
-### 🍲 [SnackUp](https://snackup.vercel.app/)  
-> *Wholesome, quick hostel meals – because hunger shouldn’t be a problem.*  
-Tech: Vanilla JS · HTML/CSS
+Skill-based diagnostics
 
-### 🔢 [Numerology Calculator](https://numerology-calculator-ab.vercel.app/)  
-> *Find your life path number in seconds!*  
-Tech: JavaScript
+Gamified engagement systems
 
-### 🩺 Track & Care 
-> *A simple digital health companion – track, learn, improve.*  
-Tech: HTML · JS · Custom APIs
+📄 Published research on arXiv
+Currently evolving into a scalable product vision.
 
----
+Mission: Democratizing high-quality education access in India.
 
-## 🛠️ My Tech Toolbox
+⚡ HackTeam (In Development)
 
-| Frontend | Backend | Auth & APIs | DevOps |
-|:--------:|:-------:|:-----------:|:------:|
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![D1](https://img.shields.io/badge/D1-111827?logo=cloudflare&logoColor=orange) ![Drizzle](https://img.shields.io/badge/Drizzle-000?logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white) ![Hono.js](https://img.shields.io/badge/Hono.js-333?logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![OAuth](https://img.shields.io/badge/OAuth-4285F4?logo=oauth&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-3F3F46?logo=clerk&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white) |
+A smart hackathon team formation engine.
 
----
+Problem: Random teams waste potential.
+Solution: Intelligent skill-matching infrastructure.
 
-## 🎯 Beyond Code  
+Features:
 
-🎤 **Performer & Music Lover** – vocalist, instrumentalist, rhythm explorer  
-🧠 **Curious Thinker** – passionate about psychology, decision theory & empathy  
-📢 **Event Organizer** – blending tech and storytelling to craft memorable events  
-🌐 **Community Builder** – pushing others to grow, learn & share
+Skill-based algorithmic matching
 
----
+Diversity-aware team balancing
 
-## 🔗 Let’s Connect!
+Availability modeling
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arihantbardia02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ab020206"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://medium.com/@arihant.bardia123"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+Real-time communication
 
----
+Cloud-native architecture
 
-### 🤖 Fun Fact  
-> “I'm training machines to be more human, and myself to be more mindful.” 🧘‍♂️✨
+Stack:
+Remix · TypeScript · Hono.js · D1 · Drizzle ORM · R2 · Cloudflare Pages
 
----
+Designed as a modern distributed full-stack system.
+
+💼 Operator Experience
+Full Stack Development Intern — UTCONS
+
+Built core systems for Taru, an AI-driven career-first learning platform.
+
+Architected multi-role dashboards
+
+Implemented AI-driven assessment logic
+
+Automated workflows using n8n + GenAI APIs
+
+Designed JWT-based authentication + RBAC
+
+Contributed to CI/CD & production pipelines
+
+Worked across product, backend logic, and AI layers.
+
+🧪 Research & Innovation
+CPAP — Centralized Payment Aggregation Platform
+
+Accepted at ICoSCAI 2025
+
+Proposed:
+
+Blockchain-backed group transaction system
+
+AI-driven transparency verification
+
+Secure distributed payment infrastructure
+
+Bridging fintech + trust + distributed systems.
+
+AI-Powered Trendspotting Platform
+
+Built predictive system using:
+
+BERT NLP pipelines
+
+LSTM time-series forecasting
+
+Sentiment heatmaps
+
+Innovation scoring dashboards
+
+Focus: Early detection of emerging tech waves.
+
+🏗 Architecture & Technical Depth
+Languages
+
+C++ · Java · Python · JavaScript · TypeScript
+
+Frontend Systems
+
+React · Next.js · Remix · Tailwind · Shadcn UI
+
+Backend & Infra
+
+Node.js · Hono.js · Express · JWT · RBAC
+
+Data Layer
+
+MongoDB · MySQL · Prisma · Cloudflare D1
+
+AI & Automation
+
+OpenAI APIs · n8n · NLP · BERT · LSTM
+
+Cloud
+
+Vercel · Cloudflare Pages · Render
+
+🎯 Long-Term Vision
+
+I am building toward:
+
+AI-native education systems
+
+Intelligent collaboration infrastructure
+
+Trust-enhanced fintech platforms
+
+Scalable cloud-native architectures
+
+The goal isn’t to ship features.
+The goal is to build infrastructure that scales impact.
+
+🤝 Let’s Connect
+<p align="center"> <a href="https://www.linkedin.com/in/arihantbardia02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/ab020206"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:arihant.bardia123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
