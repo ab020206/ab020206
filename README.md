@@ -1,154 +1,154 @@
-<h1 align="center">🚀 Arihant Bardia</h1> <p align="center"> <b>AI Systems Builder • Full-Stack Architect • Education & Fintech Innovator</b> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=FF5733&center=true&width=750&lines=Building+Impactful+AI+Platforms;Founder-Minded+Engineer;Scaling+Ideas+Into+Systems;Education+%7C+Fintech+%7C+Intelligent+Infrastructure"> </p>
-🧠 Founder Mindset
+# ⚡ Arihant Bardia
 
-I don’t just build projects.
-I design systems that solve structural problems at scale.
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=800&lines=AI+Systems+Builder;Founder-Minded+Engineer;Designing+Scalable+Intelligence;Education+%7C+Fintech+%7C+Infrastructure">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Building AI-Native Platforms That Scale Impact.`</b>`{=html}
+```{=html}
+</p>
+```
 
-🎓 B.E. Information Technology — PICT Pune (CGPA: 9.16)
-💡 Focused on AI-driven platforms in Education, Collaboration & Fintech
-⚙ Building scalable full-stack systems from idea → architecture → deployment
+------------------------------------------------------------------------
 
-My approach combines:
+# 🧭 Arihant.OS
 
-Systems thinking
+``` txt
+Version: 2.0
+Core Engine: Systems Thinking
+Modules: AI | Full-Stack | Research | Infrastructure
+Mission: Build platforms that improve lives at scale.
+```
 
-AI integration
+------------------------------------------------------------------------
 
-Behavioral psychology
+## 🧠 System Overview
 
-Secure infrastructure
+🎓 B.E. Information Technology --- PICT Pune\
+📊 CGPA: 9.16\
+📍 India
 
-Long-term product vision
+I operate at the intersection of:
 
-“Technology should not just function — it should transform.”
+-   🤖 Artificial Intelligence\
+-   🏗 Full-Stack Architecture\
+-   📊 Behavioral + Data Systems\
+-   💳 Secure Fintech Infrastructure\
+-   🎓 AI-Driven Education
 
-🚀 What I’m Building
-🧠 MindCraft
+I don't ship features.\
+I build **intelligent systems.**
 
-AI-powered personalized learning ecosystem for rural and skill-first education.
+------------------------------------------------------------------------
 
-Adaptive learning intelligence
+# 🚀 Active Builds
 
-Mentorship matching architecture
+## 🧠 MindCraft
 
-Skill-based diagnostics
+**AI-Powered Personalized Learning Infrastructure**
 
-Gamified engagement systems
+-   Adaptive learning intelligence\
+-   Skill-diagnostic modeling\
+-   Gamified engagement systems\
+-   Mentorship-matching architecture
 
-📄 Published research on arXiv
-Currently evolving into a scalable product vision.
+Published on arXiv.\
+Evolving toward scalable product architecture.
 
-Mission: Democratizing high-quality education access in India.
+------------------------------------------------------------------------
 
-⚡ HackTeam (In Development)
+## ⚡ HackTeam (In Progress)
 
-A smart hackathon team formation engine.
+**Intelligent Hackathon Team Formation Engine**
 
-Problem: Random teams waste potential.
-Solution: Intelligent skill-matching infrastructure.
+Problem → Random teams underperform.\
+Solution → Algorithmic skill orchestration.
 
-Features:
+Core Components:
 
-Skill-based algorithmic matching
+-   Skill graph modeling\
+-   Diversity-aware balancing\
+-   Availability intelligence\
+-   Real-time collaboration layer\
+-   Cloud-native distributed backend
 
-Diversity-aware team balancing
+Stack: Remix · TypeScript · Hono.js · D1 · Drizzle ORM · R2 · Cloudflare
+Pages
 
-Availability modeling
+------------------------------------------------------------------------
 
-Real-time communication
+# 💼 Operator Mode
 
-Cloud-native architecture
+## Full Stack Intern --- UTCONS
 
-Stack:
-Remix · TypeScript · Hono.js · D1 · Drizzle ORM · R2 · Cloudflare Pages
+Worked on Taru, an AI-driven career-first learning platform.
 
-Designed as a modern distributed full-stack system.
+-   Multi-role dashboards\
+-   AI-based adaptive assessments\
+-   n8n + GenAI workflow automation\
+-   JWT authentication + RBAC\
+-   CI/CD-ready architecture
 
-💼 Operator Experience
-Full Stack Development Intern — UTCONS
+------------------------------------------------------------------------
 
-Built core systems for Taru, an AI-driven career-first learning platform.
+# 🧪 Research Layer
 
-Architected multi-role dashboards
+## CPAP --- Centralized Payment Aggregation Platform
 
-Implemented AI-driven assessment logic
+Accepted at ICoSCAI 2025.
 
-Automated workflows using n8n + GenAI APIs
+-   Blockchain-backed group transaction model\
+-   AI-integrated transparency layer\
+-   Secure distributed fintech architecture
 
-Designed JWT-based authentication + RBAC
+------------------------------------------------------------------------
 
-Contributed to CI/CD & production pipelines
+## AI Trendspotting Platform
 
-Worked across product, backend logic, and AI layers.
+-   BERT NLP pipelines\
+-   LSTM time-series forecasting\
+-   Sentiment heatmaps\
+-   Innovation scoring dashboards
 
-🧪 Research & Innovation
-CPAP — Centralized Payment Aggregation Platform
+------------------------------------------------------------------------
 
-Accepted at ICoSCAI 2025
+# 🏗 Tech Architecture
 
-Proposed:
-
-Blockchain-backed group transaction system
-
-AI-driven transparency verification
-
-Secure distributed payment infrastructure
-
-Bridging fintech + trust + distributed systems.
-
-AI-Powered Trendspotting Platform
-
-Built predictive system using:
-
-BERT NLP pipelines
-
-LSTM time-series forecasting
-
-Sentiment heatmaps
-
-Innovation scoring dashboards
-
-Focus: Early detection of emerging tech waves.
-
-🏗 Architecture & Technical Depth
-Languages
+## Languages
 
 C++ · Java · Python · JavaScript · TypeScript
 
-Frontend Systems
+## Frontend
 
 React · Next.js · Remix · Tailwind · Shadcn UI
 
-Backend & Infra
+## Backend
 
 Node.js · Hono.js · Express · JWT · RBAC
 
-Data Layer
+## Databases
 
-MongoDB · MySQL · Prisma · Cloudflare D1
+MongoDB · MySQL · Prisma · Cloudflare D1 · Firebase
 
-AI & Automation
+## AI Stack
 
-OpenAI APIs · n8n · NLP · BERT · LSTM
+OpenAI API · n8n · NLP · BERT · LSTM
 
-Cloud
+## Cloud
 
 Vercel · Cloudflare Pages · Render
 
-🎯 Long-Term Vision
+------------------------------------------------------------------------
 
-I am building toward:
+# 🌍 Founder Vision
 
-AI-native education systems
+Curiosity → Systems → Intelligence → Scale → Impact
 
-Intelligent collaboration infrastructure
-
-Trust-enhanced fintech platforms
-
-Scalable cloud-native architectures
-
-The goal isn’t to ship features.
-The goal is to build infrastructure that scales impact.
-
-🤝 Let’s Connect
-<p align="center"> <a href="https://www.linkedin.com/in/arihantbardia02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/ab020206"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:arihant.bardia123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+If it improves lives at scale,\
+I want to architect it.
