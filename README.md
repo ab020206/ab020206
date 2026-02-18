@@ -1,5 +1,4 @@
-can u return me the updated code for the below text.
-make it unique and most attractive and engaging
+
 <h1 align="center">🌟 Hi, I'm Arihant Bardia! 🌟</h1>
 
 <p align="center">
